@@ -1,25 +1,25 @@
  👋 Hi, I am a seasoned Full Stack Developer. I excel in building robust Backend solutions, Designing user-friendly interfaces, and ensuring seamless integration.
 
-🛠 Skills 
-    - Ruby on Rails
-    - JavaScript / Jquery
-    - Typescript
-    - Angular
-    - HTML / CSS / Bootstrap
-    - AWS
-    - Heroku
-    - SQL
-    - Postgresql
-    - MySql
-    - Docker
-    - Sidekiq
-    - Rspec
-    - Rest API
-    - GIT
-    - Jira
-    - Linux (Ubuntu)
-    - Agile Methodology
-    - Client Interaction
-    - Technical Documentation
-    - Problem Solving
-    - Team Work
+🛠 **Skills** 
+ - Ruby on Rails
+ - JavaScript / Jquery
+ - Typescript
+ - Angular
+ - HTML / CSS / Bootstrap
+ - AWS
+ - Heroku
+ - SQL
+ - Postgresql
+ - MySql
+ - Docker
+ - Sidekiq
+ - Rspec
+ - Restful API
+ - GIT
+ - Jira
+ - Linux (Ubuntu)
+ - Agile Methodology
+ - Client Interaction
+ - Technical Documentation
+ - Problem Solving
+ - Team Work 
