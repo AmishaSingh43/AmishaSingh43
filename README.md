@@ -5,6 +5,7 @@
  - JavaScript / Jquery
  - Typescript
  - Angular
+ - NodeJS (Nest.js)
  - HTML / CSS / Bootstrap
  - AWS
  - Heroku
